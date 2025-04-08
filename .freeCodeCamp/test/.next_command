@@ -74,3 +74,8 @@ git remote set-url origin https://github.com/Saroj2554/fcc-postgres-universadb.g
 git remote -v
 git add.
 git add .
+git commit -m "first commit"
+git push -u origin maingit push -u origin main
+git push -u origin maingit push -u origin master
+git branch
+git push -u origin main
